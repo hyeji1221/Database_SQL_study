@@ -4,4 +4,4 @@ chapter 3 Introduction to SQL
 
 chatper 4 Intermediate SQL
 
-Chapter 7 Entity-Relationship Model
+chapter 7 Entity-Relationship Model
